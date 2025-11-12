@@ -45,6 +45,7 @@ except socket.timeout:
 ## OUTPUT
 ### Client
 <img width="887" height="386" alt="image" src="https://github.com/user-attachments/assets/d983287f-0b0e-4ebf-bb16-1c250417d8bf" />
+
 ### Server
 <img width="868" height="238" alt="image" src="https://github.com/user-attachments/assets/45a492c8-f374-49f3-8200-3c13bdb7e385" />
 
